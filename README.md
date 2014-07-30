@@ -8,6 +8,7 @@ Members in order joined
 2. Hop Alex Hoang
 3. Tommy Tran
 4. Tony Lam
+5. Daniel Luu
 
 #### Rules of UNAVSA Tech Mafia
 
@@ -54,3 +55,12 @@ if you don't know how to use github edit this file by clicking on the pencil. an
   1. Constant changes to better humanity.
   2. Looking to connect with people to develop their skills and abilities.
   3. I wish this group was created before so that we can help foster the develop of people interested in technology and design.
+  
+
+#### Daniel Luu - Potomac, MD
+##### UNAVSA, MAUVSA
+
+  1. It's ability to connect those around the world and how there are almost new forms of it daily.
+  2. Looking for people who are interested in the same things I am and hopefully learning a lot.
+  3. I thought this was an awesome idea because I always wanted to somehow support my love for VSA with my love for technology.
+  
