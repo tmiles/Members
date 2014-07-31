@@ -9,6 +9,7 @@ Members in order joined
 3. Tommy Tran
 4. Tony Lam
 5. Daniel Luu
+6. Andrew Young
 
 #### Rules of UNAVSA Tech Mafia
 
@@ -63,4 +64,11 @@ if you don't know how to use github edit this file by clicking on the pencil. an
   1. It's ability to connect those around the world and how there are almost new forms of it daily.
   2. Looking for people who are interested in the same things I am and hopefully learning a lot.
   3. I thought this was an awesome idea because I always wanted to somehow support my love for VSA with my love for technology.
+
+#### Andrew Young - Toronto, ON
+##### UVSA Ontario
+
+  1. Being able to invest time and effort into building something - automating processes or tying things together - to ultimately benefit as many people as possible.
+  2. Contributing my knowledge and experience, and also learning from others, to fully leverage technology and bring UNAVSA (and our respective groups) to the next plateau.
+  3. I look forward to collaborating with everyone. I live and breathe code and it is definitely a passion of mine that I've turned into a career as a contractor/freelancer.
   
