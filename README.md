@@ -10,6 +10,7 @@ Members in order joined
 4. Tony Lam
 5. Daniel Luu
 6. Andrew Young
+7. Michael Vu
 
 #### Rules of UNAVSA Tech Mafia
 
@@ -71,4 +72,11 @@ if you don't know how to use github edit this file by clicking on the pencil. an
   1. Being able to invest time and effort into building something - automating processes or tying things together - to ultimately benefit as many people as possible.
   2. Contributing my knowledge and experience, and also learning from others, to fully leverage technology and bring UNAVSA (and our respective groups) to the next plateau.
   3. I look forward to collaborating with everyone. I live and breathe code and it is definitely a passion of mine that I've turned into a career as a contractor/freelancer.
+
+#### Michael Vu - Toronto, ON
+##### UTVSA (Toronto)
+
+  1. I like digital technology because it has created a new space for building and experimentation, and this space is still growing and figuring out its possibilities, unlike other equally interesting spaces such as carpentry or painting. Last year I went to a Hackathon at U of Toronto and it was a really cool experience!
+  2. I am looking to learn from this group because although I am extremely interested in this field my background is quite weak (only some basic Python, and some experience with Adobe Creative Suite). Because my background is in neuroscience, my secret plan is to acquire new skills in the hopes of creating new ways for our minds to interact with digital technology, such as through EEG-controllers. That being said I also want to contribute however I can to the jobs that need to be done within UNAVSA!
+  3. It's kind of lame, but when I saw the movie "The Social Network" in theatres me and my friend had a long inspiring discussion afterwards which I think changed the way I think about the trajectory of my life. I think that digital technology is exciting for many people in that respect, it promises a kind of limitless wild west of potential, which of course is kind of overblown, but anyways it is empowering and motivating to enter this space. Also, "The Social Network" official soundtrack is amazing I recommmend it!
   
