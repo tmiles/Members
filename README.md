@@ -11,6 +11,7 @@ Members in order joined
 5. Daniel Luu
 6. Andrew Young
 7. Michael Vu
+8. Jennifer Nghe
 
 #### Rules of UNAVSA Tech Mafia
 
@@ -80,3 +81,9 @@ if you don't know how to use github edit this file by clicking on the pencil. an
   2. I am looking to learn from this group because although I am extremely interested in this field my background is quite weak (only some basic Python, and some experience with Adobe Creative Suite). Because my background is in neuroscience, my secret plan is to acquire new skills in the hopes of creating new ways for our minds to interact with digital technology, such as through EEG-controllers. That being said I also want to contribute however I can to the jobs that need to be done within UNAVSA!
   3. It's kind of lame, but when I saw the movie "The Social Network" in theatres me and my friend had a long inspiring discussion afterwards which I think changed the way I think about the trajectory of my life. I think that digital technology is exciting for many people in that respect, it promises a kind of limitless wild west of potential, which of course is kind of overblown, but anyways it is empowering and motivating to enter this space. Also, "The Social Network" official soundtrack is amazing I recommmend it!
   
+#### Jennifer Nghe - Nanuet, NY/Boston, MA
+##### New England IVSA and Boston University VSA
+
+   1. Technological advancements make the world go round. The possibilities are endless!
+   2. I'm always down to learn new things.
+   3. This sounds like something we could add to VSAcademy.
