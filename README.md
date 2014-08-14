@@ -12,7 +12,7 @@ Members in order joined
 6. Andrew Young
 7. Michael Vu
 8. Jennifer Nghe
-
+9. Roger Le
 #### Rules of UNAVSA Tech Mafia
 
 1. You must edit yourself into this Readme.
@@ -87,5 +87,11 @@ if you don't know how to use github edit this file by clicking on the pencil. an
    1. Technological advancements make the world go round. The possibilities are endless!
    2. I'm always down to learn new things.
    3. This sounds like something we could add to VSAcademy.
+
+#### Roger Le - Austin, TX
+
+   1. I love how you can leave a legacy by writing good software that keeps on giving back to your target audience
+   2. I'm looking forward to connecting with other aspiring technologists and collaborate in exchanging ideas and code and opportunities for one another to showcase each others skills and develop each other.
+   3. I'm looking forward to building apps with you guys and gals that could benefit UNAVSA and add them to our portfolios as well as exchange best practices and network with individuals in the UNAVSA for my and your ideal position!
 
 testing ifft integration. When Pull request, post to Facebook!
