@@ -94,4 +94,12 @@ if you don't know how to use github edit this file by clicking on the pencil. an
    2. Looking forward to connecting with other aspiring technologists and collaborate in exchanging ideas and code and opportunities for one another to showcase each others skills and develop each other.
    3. It will be fun building apps with you guys and gals that could benefit UNAVSA and add them to our portfolios as well as exchange best practices and network with individuals in the UNAVSA for my and your ideal position!
 
+
+#### Brian Nguyen- Houston, TX
+##### UNAVSA/UH VSA/VSA South
+
+  1. It is constantly changing and is an integral part of our lives.
+  2. To learn more about coding and to improve my feeble coding skills.
+  3. I'm excited to learn from this group, and I feel that this group will teach me more on coding than I have in my past year of coding at school.
+
 testing ifft integration. When Pull request, post to Facebook!
