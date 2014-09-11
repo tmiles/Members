@@ -104,4 +104,12 @@ if you don't know how to use github edit this file by clicking on the pencil. an
   2. To learn more about coding and to improve my feeble coding skills.
   3. I'm excited to learn from this group, and I feel that this group will teach me more on coding than I have in my past year of coding at school.
 
+#### Tuan Duong- Washington, D.C.
+##### MAUVSA
+
+  1. I love that tech has ability to impact so many people.
+  2. To share and learn from each other. To build something that will be able to help our UNAVSA community.
+  3. Always down to pair.
+  
+
 testing ifft integration. When Pull request, post to Facebook!
