@@ -14,6 +14,7 @@ Members in order joined
 8. Jennifer Nghe
 9. Roger Le
 10. Brian Nguyen
+11. Tuan Duong
 
 #### Rules of UNAVSA Tech Mafia
 
