@@ -111,6 +111,12 @@ if you don't know how to use github edit this file by clicking on the pencil. an
   1. I love that tech has ability to impact so many people.
   2. To share and learn from each other. To build something that will be able to help our UNAVSA community.
   3. Always down to pair.
+
+### Kat Phan - Bay Area (SF, Stanford), CA
+#### UVSA NorCal, Stanford VSA
+1. The intersection of social awareness and engineering is necessary to educate and empower.
+2. To build or improve tools for not only the VSA community, but also the Vietnamese population in North America.
+3. I am an extremely huge advocate for API involvement in  social justice movements, and women in STEM.
   
 
 testing ifft integration. When Pull request, post to Facebook!
