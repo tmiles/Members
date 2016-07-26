@@ -15,6 +15,7 @@ Members in order joined
 9. Roger Le
 10. Brian Nguyen
 11. Tuan Duong
+12. Kat Phan
 
 #### Rules of UNAVSA Tech Mafia
 
