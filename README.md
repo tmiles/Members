@@ -16,6 +16,7 @@ Members in order joined
 10. Brian Nguyen
 11. Tuan Duong
 12. Kat Phan
+13. Timmy Miles
 
 #### Rules of UNAVSA Tech Mafia
 
@@ -119,5 +120,11 @@ if you don't know how to use github edit this file by clicking on the pencil. an
 2. To build or improve tools for not only the VSA community, but also the Vietnamese population in North America.
 3. I am an extremely huge advocate for API involvement in  social justice movements, and women in STEM.
   
+### Timmy Miles - Tucson, AZ
+#### SWUVSA, University of Arizona VSA
+
+	1. The ease of availability makes technology rapidly growing. The ease to code and access to computers means it appeals to the masses. Continuing on means that powerful technology can easily be created by anyone. 
+	2. I'm looking to network, connect, and work in collaboration with others in the UNAVSA community to improve communication, social media presence and to create tools to push forth the mission of UNAVSA. 
+	3. Usability is a huge issue and technology can commonly break too. I enjoy making robust systems that is updated frequently with plenty more to offer from the platform. 
 
 testing ifft integration. When Pull request, post to Facebook!
